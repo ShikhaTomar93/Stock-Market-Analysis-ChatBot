@@ -5,10 +5,11 @@ Step 1: Install Oracle Database XE from https://www.oracle.com/database/technolo
 Step 2: Vaigate to the installation folder C:\app\<you-user>\product\21c\dbhomeXE\bin and run sqlplus.exe
 
 Step 3: Execute the below commands for connecting to PDB
-<kbd>![image](https://user-images.githubusercontent.com/64169078/144718895-b6849a80-5bb0-4190-910e-da0e21095a06.png)
+
+<img src="https://user-images.githubusercontent.com/64169078/144718895-b6849a80-5bb0-4190-910e-da0e21095a06.png" width=50% hieght=50%>
 
 Step 4: Create user for each developer or on a project level like below:
-<kbd>![image](https://user-images.githubusercontent.com/64169078/144719061-6f982819-bf2b-4f6c-b9ce-8290c1129030.png)
+<img src="https://user-images.githubusercontent.com/64169078/144719061-6f982819-bf2b-4f6c-b9ce-8290c1129030.png" width=50% hieght=50%>
 
 See references for cpoying the commands.
 
