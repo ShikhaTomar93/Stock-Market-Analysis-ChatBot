@@ -10,6 +10,7 @@ Proposed Analysis-
 Our chatbot will interact with the user and ask them about what strategy they want to use and on which stocks, the user can either chose the inbuilt regression techniques or create their own using various technical indicators. Then the bot will backtest the technique on the historic data in our db and will display the success to failure ratio of the technique on the selected stocks.
 We also plan to do a live alert, if the user chooses to do a live alert for any stock, as soon as the conditions of a choosen technique meets, he will get the alert regarding same. For this we will need to deploy our project on cloud, so this part is litle complicated 
 Milestones-
+
 •	First step will be to get the data set and cleaning it and saving it in the data base.
 •	Then we will have to make different technical indicators using the different combinations of the columns of the dataset.
 •	Create the chatbot and train the bot to interact with the user related to stock market strategies.
