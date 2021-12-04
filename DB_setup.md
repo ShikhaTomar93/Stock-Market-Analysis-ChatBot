@@ -26,6 +26,6 @@ Step 8: Connect and run SELECT to view the table created in Step 5.
 All the commands and code used in the screenshots can be found in the Refrences.
 
 References:
-https://www.oracle.com/database/technologies/appdev/python/quickstartpythononprem.html
   
+https://www.oracle.com/database/technologies/appdev/python/quickstartpythononprem.html  
 https://www.youtube.com/watch?v=wiEsR_j36yw&ab_channel=Oracle.NETandWindows
