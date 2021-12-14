@@ -2,7 +2,7 @@
 
 Step 1: Install Oracle Database XE from https://www.oracle.com/database/technologies/appdev/xe/quickstart.html
 
-Step 2: Vaigate to the installation folder C:\app\<you-user>\product\21c\dbhomeXE\bin and run sqlplus.exe
+Step 2: Navigate to the installation folder C:\app\<you-user>\product\21c\dbhomeXE\bin and run sqlplus.exe
 
 Step 3: Execute the below commands for connecting to PDB
 
@@ -12,7 +12,7 @@ Step 4: Create user for each developer or on a project level like below:
 
 <img src="https://user-images.githubusercontent.com/64169078/144719061-6f982819-bf2b-4f6c-b9ce-8290c1129030.png" width=50% hieght=50%>
 
-See references for cpoying the commands.
+See references for copying the commands.
 
 Step 5: Configure the Oracle XE DB for the Python project. Cretae a new table, insert data and verify if its retrievable.
 
