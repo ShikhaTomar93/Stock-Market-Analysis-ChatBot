@@ -2,3 +2,5 @@
 __pycache__/*
 .mypy_cache/*
 identifier.sqlite
+/DELETE_LIU/
+__pycache__/index.cpython-38.pyc
